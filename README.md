@@ -1,1 +1,1 @@
-# MPIC-decentralized-processing
+# MPIC++ decentralized-processing
